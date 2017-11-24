@@ -1,7 +1,7 @@
 package TestVariable;
 
-public class Testvariable {
-    public static void main(String[] args) {
+    public class TestVariable {
+        public static void main(String[] args) {
 //       Integer
         int i;
         i = 10;
