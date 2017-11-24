@@ -1,6 +1,11 @@
-package oop_lab.`359211110129`.rmutsv.com;
+package oop_lab.359211110129.rmutsv.com;
 
-public class myFirstJAVA{
-    pa
+public class myFitstJAVA{
+    @Override
+    protected void finalize() throws Throwable{
+        System.out.println("Hello ");
+
+    }
+
 }//class
 
