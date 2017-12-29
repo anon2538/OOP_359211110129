@@ -1,4 +1,4 @@
-package oop_lab4;
+package ooplab4;
 
 
 public class TestMethods {
