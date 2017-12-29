@@ -1,4 +1,4 @@
-package oop_lab4;
+package ooplab4;
 //1. Overload method
 //2. Overloading method
 //3. Method Overload
