@@ -1,4 +1,4 @@
-package oop_lab5;
+package ooplab5;
 
 public class myArray {
     public static void main(String[] args) {
