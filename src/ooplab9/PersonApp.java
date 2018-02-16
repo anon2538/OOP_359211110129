@@ -4,8 +4,8 @@ public class PersonApp {
 
     public static void main(String[] args) {
         Person person = new Person("Anon Wunthae",21,
-                new Address("176 M.4","Phattalung",
-                        "93000"),
+                new Address("98/3 M.5","Huasai",
+                        "80170"),
                 new Job("Teacher",15000));
         System.out.println(person.toString());
 
